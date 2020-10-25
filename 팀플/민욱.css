@@ -1,0 +1,109 @@
+td {
+    border: 1px solid #e4e4e4;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    border: 1px solid #e4e4e4;
+    padding: 10px;
+    text-align: left;
+}
+
+caption{
+    text-align: left;
+    font: 14px bold #000 ;
+}
+
+.tableStyle {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.kidSize {
+    font: 12px #555;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Refund {
+    font: 12px #555;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.first_bord {
+    background-color: #fbfbfb;
+    text-align: left;
+}
+
+.second_bord {
+    background-color: #fbfbfb;
+}
+
+.removeLine {
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+}
+
+.removeLine_1 {
+    border-right: none;
+    border-left: none;
+    border-top: 2px solid #a5a5a5;
+    border-bottom: none;
+}
+
+.removeLine_2 {
+    border-right: none;
+    border-left: none;
+    border-top: 1px solid #e4e4e4;
+    border-bottom: none;
+}
+
+.removeLine_3 {
+    border-right: none;
+    border-left: none;
+    border-top: 1px solid #a5a5a5;
+    border-bottom: 1px solid #e4e4e4;
+}
+
+.removeLine_number {
+    border-right: none;
+    border-left: none;
+    border-top: 1px solid #e4e4e4;
+    border-bottom: none;
+    text-align: right;
+    padding-right: 88px;
+}
+
+.removeLine_number1 {
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    text-align: right;
+    padding-right: 88px;
+}
+
+.removeLine_number2 {
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    text-align: right;
+    padding-right: 88px;
+}
+
+.removeLine_number3 {
+    border-right: none;
+    border-left: none;
+    border-top: 1px solid #a5a5a5;
+    border-bottom: 1px solid #e4e4e4;
+    text-align: right;
+    padding-right: 88px;
+}
